@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 public class Main {
+
+
     public static int width = 30;
     public static int height = 10;
     public static String [][] empty  = new String[height][width];
